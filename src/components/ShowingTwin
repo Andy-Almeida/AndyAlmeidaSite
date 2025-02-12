@@ -1,0 +1,14 @@
+Hello
+
+Creating a macro
+q[Register]
+ex: q1
+end recording of macro: q
+
+Using a macro
+@[register]
+ex: @1
+ex: 10@1
+Use last macro used: @@
+
+dhjskalhdjska dhjsaklhdjsak hdjskal
